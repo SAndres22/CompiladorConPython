@@ -1,0 +1,23 @@
+(((9*9)/(9*2))**2)
+
+if 5==5 and 2 ==2:
+if 10>3 or 100>10:
+if 10 == 2 and 10>100:
+
+x = 10
+p = 0
+y = x/p
+
+edad = 18
+if edad >= 18:
+    print("Eres mayor de edad")
+else:
+    print("Eres menor de edad")
+
+hola = "saludo"
+p = 2
+a = hola*p
+
+'pepe' * 2
+'pepe' > 3
+'hola' + 'pepe'
